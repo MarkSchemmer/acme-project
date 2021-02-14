@@ -30,7 +30,7 @@
     "chai": "^4.2.0",
     "font-awesome": "^4.7.0",
     "fs": "0.0.1-security",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "path": "^0.12.7",
     "rxjs": "^6.4.0",
     "rxjs-observable": "0.0.7",
